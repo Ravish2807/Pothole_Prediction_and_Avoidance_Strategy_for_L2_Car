@@ -1,6 +1,6 @@
-# Pothole Prediction and Avoidance Strategy for L2 Car
+# Pothole Prediction base model version-1 (avoidance is not included)
 
-Building an autonomous system with pothole prediction and smart avoidance techniques to reduce the impact of potholes and manage terrain roads for an ADAS-powered L2 car.
+Building an autonomous system with pothole prediction to reduce the impact of potholes and manage terrain roads for an ADAS-powered L2 car.
 
 Testing for CROBOT (wheeled Manipulator) using Intel RealSense D435 Depth Camera has been completed and results are stored in the provided Drive Files.
 Link: https://drive.google.com/drive/folders/1t5VTZ6-SJFxXP-aronKnmvw01V4GU6BO
